@@ -1,16 +1,28 @@
-### Hi there 👋
+<body style="background-color: #0d1117; color: #c9d1d9;">
 
-<!--
-**26SHADOW69/26SHADOW69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=YO+🤚;MAPS+COLLEGE+2nd BCA;" /></h1>
 
-Here are some ideas to get you started:
+<h1 align="left" style="color: #ffffff;" style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;">💫 About Me: <br></h1>
+<h3> 🏫 College: <br>Maps College Mangalore</h3>
+<h3>2nd Year Batch BCA</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="left" style="color: #ffffff;" style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;"> 🌐 Connect with me: <br></h1>
+<a href="https://instagram.com/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://twitter.com/" target="blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://linkedin.com/in/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://gitlab.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" /></a>
+
+
+<h1 align="">⚒️ Languages-Frameworks-Tools</h1><br/>
+<div align=""><img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,cs,dotnet" /><br></div>
+<div align=""><img src="https://skillicons.dev/icons?i=java,mysql,python,github,git,vscode,linux" /><br></div>
+
+<h2 align="left" style="color: #ffffff;" style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;">📊 GitHub Stats: <br></h2>
+<div align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=26shadow69&show_icons=true&locale=en&theme=dark&hide_border=true" alt="shadow269" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=26SHADOW69&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left"><img src="https://profile-counter.glitch.me/26SHADOW69/count.svg?"  /></div>
