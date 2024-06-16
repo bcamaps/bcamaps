@@ -1,7 +1,5 @@
 <body style="background-color: #0d1117; color: #c9d1d9;">
 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=YO+🤚;MAPS+COLLEGE+2nd BCA;" /></h1>
-
 <h1 align="left" style="color: #ffffff;" style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;">💫 About Me: <br></h1>
 <h3> 🏫 College: <br>Maps College Mangalore</h3>
 <h3>2nd Year Batch BCA</h3>
