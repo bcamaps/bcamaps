@@ -4,7 +4,7 @@
 <h3>🏫 Maps College Mangalore</h3>
 
 <h3>🔭 Managed by: <br>
-<a href="https://github.com/SHADOW269/FARMING_WEB">🧑‍💻 SHADOW269</a></h3>
+<a href="https://github.com/SHADOW269">🧑‍💻 SHADOW269</a></h3>
 
 <h1 align="left" style="color: #ffffff;" style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;"> 🌐 Connect with us: <br></h1>
 <a href="https://instagram.com/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
