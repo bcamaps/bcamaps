@@ -25,4 +25,4 @@
 
 ###
 
-![:view_count](https://count.chiya.dev/get/@26shadow69?theme=gelbooru)
+![:view_count](https://count.chiya.dev/get/@someone269?theme=gelbooru)
