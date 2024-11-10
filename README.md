@@ -19,9 +19,10 @@
 
 <h2 align="left" style="color: #ffffff;" style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;">📊 GitHub Stats: <br></h2>
 <div align="left">
-  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=26shadow69&show_icons=true&locale=en&theme=dark&hide_border=true" alt="shadow269" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=26SHADOW69&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="left"><img src="https://profile-counter.glitch.me/26SHADOW69/count.svg?"  /></div>
+![:view_count](https://count.chiya.dev/get/@26shadow69?theme=gelbooru)
