@@ -10,7 +10,6 @@
 <a href="https://instagram.com/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 <a href="https://twitter.com/" target="blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 <a href="https://linkedin.com/in/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://gitlab.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" /></a>
 
 
 <h1 align="">⚒️ Languages-Frameworks-Tools Taught</h1><br/>
