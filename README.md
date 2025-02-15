@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 
 
-<h1 align="">⚒️ Languages-Frameworks-Tools Taught</h1><br/>
+<h1 align="">⚒️ Languages-Frameworks-Tools </h1><br/>
 <div align=""><img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,cs,dotnet" /><br></div>
 <div align=""><img src="https://skillicons.dev/icons?i=java,mysql,python,pycharm,r,php,windows" /><br></div>
 
