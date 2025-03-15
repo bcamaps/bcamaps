@@ -18,10 +18,10 @@
 
 <h2 align="left" style="color: #ffffff;" style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;">📊 GitHub Stats: <br></h2>
 <div align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maps100&show_icons=true&locale=en&theme=dark&hide_border=true" alt="someone269" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maps100&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="197" alt="languages graph"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bcamaps&show_icons=true&locale=en&theme=dark&hide_border=true" alt="someone269" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bcamaps&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="197" alt="languages graph"  />
 </div>
 
 ###
 
-![:view_count](https://count.chiya.dev/get/@someone269?theme=gelbooru)
+![](https://komarev.com/ghpvc/?username=bcamaps)
